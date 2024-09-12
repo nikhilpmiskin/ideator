@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import React from 'react';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import YtTable from './components/YtTable';
-import axios from 'axios';
 import './App.css';
 
 function App() {
@@ -10,7 +9,7 @@ function App() {
       <div className="App">
         <Routes>
           {/* <Route path="/" element={<Chat />} /> */}
-          <Route path="ideator/frontend/topyoutubers" element={<YtTable />} />
+          <Route path="/topyoutubers" element={<YtTable />} />
         </Routes>
       </div>
     </Router>
