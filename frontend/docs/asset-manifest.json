@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ideator/frontend/static/css/main.025bd4dc.css",
+    "main.js": "/ideator/frontend/static/js/main.68b254bd.js",
+    "static/js/453.8ab44547.chunk.js": "/ideator/frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/ideator/frontend/index.html",
+    "main.025bd4dc.css.map": "/ideator/frontend/static/css/main.025bd4dc.css.map",
+    "main.68b254bd.js.map": "/ideator/frontend/static/js/main.68b254bd.js.map",
+    "453.8ab44547.chunk.js.map": "/ideator/frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.025bd4dc.css",
+    "static/js/main.68b254bd.js"
+  ]
+}

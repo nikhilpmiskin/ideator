@@ -10,7 +10,7 @@ function App() {
       <div className="App">
         <Routes>
           {/* <Route path="/" element={<Chat />} /> */}
-          <Route path="/topyoutubers" element={<YtTable />} />
+          <Route path="ideator/frontend/topyoutubers" element={<YtTable />} />
         </Routes>
       </div>
     </Router>
